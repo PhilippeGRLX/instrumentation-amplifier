@@ -35,6 +35,10 @@ Desktop.ini
 **/*.local
 **/*.user
 
+# Altium simulation
+**/Simulation/
+**/*.simcfg
+
 # =========================================
 # Python
 # =========================================
