@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QNEXPQKV
 
 [Document8]
+DocumentPath=..\..\..\..\PCB_Alimentation\PCB_Alimentation\PCB_Alimentation_équipe1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BYJRRTAR
+
+[Document9]
 DocumentPath=libraries\signal-generator.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GQJTKSRA
 
-[Document9]
+[Document10]
 DocumentPath=Signal_Generator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPPUIAXN
 
-[Document10]
+[Document11]
 DocumentPath=libraries\Alimentation.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PUNKPKLC
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for signal-generator\Design Rule Check - Signal_Generator.html
